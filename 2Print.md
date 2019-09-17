@@ -2,7 +2,7 @@
 
 These are the pending cheat sheets to print. 
 
-## To print on 2019-06-03
+## Printed on 2019-06-03
 
 - [estimatr.pdf](estimatr.pdf)
 - [latex-math-symbols.pdf](latex-math-symbols.pdf)

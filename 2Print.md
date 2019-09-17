@@ -2,6 +2,13 @@
 
 These are the pending cheat sheets to print. 
 
+## To Print on 2019-09-17
+
+- [distr6.pdf](distr6.pdf)
+- [gganimate.pdf](gganimate.pdf)
+- [vtree.pdf](vtree.pdf)
+
+
 ## Printed on 2019-06-03
 
 - [estimatr.pdf](estimatr.pdf)

@@ -4,9 +4,11 @@ This is a collection of R, Git and other interesting things cheat sheets that I'
 
 I keep this mainly a repository for me, but perhaps it's useful for someone so I'll keep it open. 
 
-Last time [RStudio site][] was checked for new sheet was: **2019-06-01**
+Last time [RStudio site][] was checked for new sheet was: Mon, 20 Jan 2020 at 16:47 EET
 
 Checked means that I have it printed. You can check what I have pending [2Print](2Print.md). 
+
+I've also created a PDF with all the cheatsheets I print [All R cheatsheets.pdf](All R cheatsheets.pdf). It's ignored by git for now. 
 
 - [x] [advancedR.pdf](advancedR.pdf): Environments, data Structures, Functions, Subsetting and more by Arianne Colton and Sean Chen.
 - [x] [base-r.pdf](base-r.pdf): Vectors, Matrices, Lists, Data Frames, Functions and more in base R by [Mhairi McNeill](http://mhairihmcneill.com/).
@@ -38,6 +40,7 @@ Checked means that I have it printed. You can check what I have pending [2Print]
 - [x] [mosaic.pdf](mosaic.pdf): The [mosaic package](http://mosaic-web.org/) is for teaching mathematics, statistics, computation and modeling. Cheatsheet by MichaelLaviolette.
 - [x] [nardl.pdf](nardl.pdf): The nardl package estimates the nonlinear cointegrating autoregressive distributed lag model. Cheatsheet by Taha Zaghdoudi.
 - [x] [NVSCheatSheet.pdf](NVSCheatSheet.pdf): **The [Graphics Principles cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) (https://graphicsprinciples.github.io) is one deliverable of a [graphics initiative](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912)** to increase the graphical expertise and productivity of quantitative scientists at Novartis. We also have prepared a tutorial on “Effective visual communication for the quantitative scientist” which is in submission. A pre-print can be found at: https://arxiv.org/abs/1903.09512
+- [ ] [oSCR.pdf](oSCR.pdf): The oSCR package provides functions for working with Spatial Capture Recapture models. Not printed because it isn't that interesting for now. 
 - [x] [package-development.pdf](package-development.pdf): The devtools package makes it easy to build your own R packages, and packages make it easy to share your R code. Supplement this cheat sheet with [r-pkgs.had.co.nz](http://r-pkgs.had.co.nz/), Hadley’s book on package development.
 - [x] [parallel_computation.pdf](parallel_computation.pdf): Parallel computing in R with the parallel, foreach, and future packages. By Ardalan Mirshani. 
 - [x] [purrr.pdf](purrr.pdf): The [purrr package](http://purrr.tidyverse.org/) makes it easy to work with lists and functions. This cheatsheet will remind you how to manipulate lists with purrr as well as how to apply functions iteratively to each element of a list or vector. The back of the cheatsheet explains how to work with list-columns. With list columns, you can use a simple data frame to organize any collection of objects in R.
@@ -56,13 +59,15 @@ Checked means that I have it printed. You can check what I have pending [2Print]
 - [x] [Short-refcard.pdf](Short-refcard.pdf): A cheat sheet for R from [here](https://cran.r-project.org/doc/contrib/Short-refcard.pdf).
 - [x] [sjmisc.pdf](sjmisc.pdf): dplyr friendly Data and Variable Transformation, by [Daniel Lüdecke](https://github.com/strengejacke). 
 - [x] [sparklyr.pdf](sparklyr.pdf): [Sparklyr](http://spark.rstudio.com/) provides an R interface to Apache Spark, a fast and general engine for processing Big Data.  With sparklyr, you can connect to a local or remote Spark session, use dplyr to manipulate data in Spark, and run Spark’s built in machine learning algorithms.
+- [ ] [stata2r.pdf](stata2r.pdf): Common translations from Stata to R. I don't use Stata so I haven't printed it. 
 - [x] [stringr.pdf](stringr.pdf): The [stringr](http://stringr.tidyverse.org/) package provides an easy to use toolkit for working with strings, i.e. character data, in R. This cheatsheet guides you through stringr’s functions for manipulating strings. The back page provides a concise reference to *regular expresssions*, a mini-language for describing, finding, and matching patterns in strings. 
 - [x] [survminer.pdf](survminer.pdf): Elegant survival plots, by Przemyslaw Biecek.
 - [x] [syntax.pdf](syntax.pdf): Three code styles compared: $, formula, and tidyverse. By [Amelia McNamara](http://www.science.smith.edu/~amcnamara/). 
 - [ ] [teachR.pdf](teachR.pdf): Some insights about how to teach R. Downloaded from [here](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf). I think this is isn't really interesting for printing. 
 - [x] [tidyeval.pdf](tidyeval.pdf): [Tidy Evaluation](https://tidyeval.tidyverse.org/) (Tidy Eval) is a framework for doing non-standard evaluation in R that makes it easier to program with tidyverse functions. Non-standard evaluation, better thought of as “delayed evaluation,” lets you capture a user’s R code to run later in a new environment or against a new data frame. The tidy evaluation framework is implemented by the [rlang](https://rlang.r-lib.org/) package and used by functions throughout the tidyverse.
+- [ ] [time-series.pdf](time-series.pdf): A reference to time series in R. I haven't printed it because it doesn't look that interesting at least for now. 
 - [x] [tsbox.pdf](tsbox.pdf): A time series [toolkit](https://www.tsbox.help/) for conversions, piping, and more. By Christoph Sax. 
-- [x] [vtree.pdf](vtree.pdf): Display the subsets within a data frame, nested by variables and values.
+- [x] [vtree.pdf](vtree.pdf): Display the subsets within a data frame, nested by variables and values. I have to create a new pdf with this cheatsheet as a image because the new version wasn't printing correctly. 
 - [x] [xplain.pdf](xplain.pdf): Explain statistical functions with XML files and xplain. By Joachim Zuckarelli. 
 
 

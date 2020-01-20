@@ -2,7 +2,7 @@
 
 These are the pending cheat sheets to print. 
 
-## To Print on 2019-09-17
+## Printed on 2019-09-17
 
 - [distr6.pdf](distr6.pdf)
 - [gganimate.pdf](gganimate.pdf)

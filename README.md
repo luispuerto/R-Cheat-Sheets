@@ -16,12 +16,12 @@ Checked means that I have it printed. You can check what I have pending [2Print]
 - [x] [data-import.pdf](data-import.pdf): The Data Import cheat sheet reminds you how to read in flat files with http://readr.tidyverse.org/, work with the results as tibbles, and reshape messy data with [tidyr](http://tidyr.tidyverse.org/). Use tidyr to reshape your tables into tidy data, the data format that works the most seamlessly with R and the [tidyverse](http://tidyverse.org/). 
 - [x] [datatable.pdf](datatable.pdf): Data manipulation with data.table, cheatsheet by  Erik Petrovski.
 - [x] [declaredesign.pdf](declaredesign.pdf): Tools to test research designs that use a MIDA framework.
-- [ ] [distr6.pdf](distr6.pdf): Create, query, and manipulate distributions as R6 objects.
+- [x] [distr6.pdf](distr6.pdf): Create, query, and manipulate distributions as R6 objects.
 - [x] [dplyr.pdf](dplyr.pdf): dplyr provides a grammar for manipulating tables in R. This cheat sheet will guide you through the grammar, reminding you how to select, filter, arrange, mutate, summarise, group, and join data frames and tibbles. 
 - [x] [estimatr.pdf](estimatr.pdf): Fast, robust [estimators](https://declaredesign.org/r/estimatr/) for common models.
 - [x] [eurostat.pdf](eurostat.pdf): R tools to access the eurostat database, by [rOpenGov](http://ropengov.github.io/).
 - [x] [factors.pdf](factors.pdf): Factors are R’s data structure for categorical data. The [forcats](https://forcats.tidyverse.org/) package makes it easy to work with factors. This cheatsheet reminds you how to make factors, reorder their levels, recode their values, and more.
-- [ ] [gganimate.pdf](gganimate.pdf): Animate ggplot2 plots
+- [x] [gganimate.pdf](gganimate.pdf): Animate ggplot2 plots
 - [x] [ggplot2.pdf](ggplot2.pdf): The ggplot2 package lets you make beautiful and customizable plots of your data. It implements the grammar of graphics, an easy to use system for building plots. See [docs.ggplot2.org](http://docs.ggplot2.org/current/) for detailed examples. 
 - [x] [git-cheatsheet-tower.pdf](git-cheatsheet-tower.pdf): A command line Git cheat sheet from Tower app. 
 - [x] [github-git-cheat-sheet.pdf](github-git-cheat-sheet.pdf): A command line Git cheat sheet from GitHub.
@@ -62,7 +62,7 @@ Checked means that I have it printed. You can check what I have pending [2Print]
 - [ ] [teachR.pdf](teachR.pdf): Some insights about how to teach R. Downloaded from [here](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf). I think this is isn't really interesting for printing. 
 - [x] [tidyeval.pdf](tidyeval.pdf): [Tidy Evaluation](https://tidyeval.tidyverse.org/) (Tidy Eval) is a framework for doing non-standard evaluation in R that makes it easier to program with tidyverse functions. Non-standard evaluation, better thought of as “delayed evaluation,” lets you capture a user’s R code to run later in a new environment or against a new data frame. The tidy evaluation framework is implemented by the [rlang](https://rlang.r-lib.org/) package and used by functions throughout the tidyverse.
 - [x] [tsbox.pdf](tsbox.pdf): A time series [toolkit](https://www.tsbox.help/) for conversions, piping, and more. By Christoph Sax. 
-- [ ] [vtree.pdf](vtree.pdf): Display the subsets within a data frame, nested by variables and values.
+- [x] [vtree.pdf](vtree.pdf): Display the subsets within a data frame, nested by variables and values.
 - [x] [xplain.pdf](xplain.pdf): Explain statistical functions with XML files and xplain. By Joachim Zuckarelli. 
 
 

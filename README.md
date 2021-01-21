@@ -4,7 +4,7 @@ This is a collection of R, Git and other interesting things cheat sheets that I'
 
 I keep this mainly a repository for me, but perhaps it's useful for someone so I'll keep it open. 
 
-Last time [RStudio site][] was checked for new sheet was: Mon, 20 Jan 2020 at 16:47 EET
+Last time [RStudio site][] was checked for new sheet was: Tue, 21 Feb 2021 at 13:30 CET
 
 Checked means that I have it printed. You can check what I have pending [2Print](2Print.md). 
 
@@ -15,6 +15,7 @@ I've also created a PDF with all the cheatsheets I print [All R cheatsheets.pdf]
 - [x] [bash-macOS-tower.pdf](bash-macOS-tower.pdf): A bash macOS cheat sheet from Tower app.
 - [x] [caret.pdf](caret.pdf): Modeling and Machine Learning in R with the caret package by Max Kuhn.
 - [x] [cartography.pdf](cartography.pdf): Thematic maps with spatial objects by Timothée Giraud.
+- [x] [collapse.pdf](collapse.pdf): Advanced and fast data transformation with R by Sebastian Krantz.
 - [x] [data-import.pdf](data-import.pdf): The Data Import cheat sheet reminds you how to read in flat files with http://readr.tidyverse.org/, work with the results as tibbles, and reshape messy data with [tidyr](http://tidyr.tidyverse.org/). Use tidyr to reshape your tables into tidy data, the data format that works the most seamlessly with R and the [tidyverse](http://tidyverse.org/). 
 - [x] [datatable.pdf](datatable.pdf): Data manipulation with data.table, cheatsheet by  Erik Petrovski.
 - [x] [declaredesign.pdf](declaredesign.pdf): Tools to test research designs that use a MIDA framework.
@@ -27,9 +28,12 @@ I've also created a PDF with all the cheatsheets I print [All R cheatsheets.pdf]
 - [x] [ggplot2.pdf](ggplot2.pdf): The ggplot2 package lets you make beautiful and customizable plots of your data. It implements the grammar of graphics, an easy to use system for building plots. See [docs.ggplot2.org](http://docs.ggplot2.org/current/) for detailed examples. 
 - [x] [git-cheatsheet-tower.pdf](git-cheatsheet-tower.pdf): A command line Git cheat sheet from Tower app. 
 - [x] [github-git-cheat-sheet.pdf](github-git-cheat-sheet.pdf): A command line Git cheat sheet from GitHub.
+- [x] [golem.pdf](golem.pdf): A framework for building robust Shiny apps.
 - [x] [h2o.pdf](h2o.pdf): The R interface to h20’s algorithms for big data and parallel computing.
 - [x] [how-big-is-your-graph.pdf](how-big-is-your-graph.pdf): Graph sizing with base R by [Stephen Simon](http://blog.pmean.com/cheatsheets/).
+- [x] [imputeTS.pdf](imputeTS.pdf): Impute missing data in time series by Steffen Moritz.
 - [x] [keras.pdf](keras.pdf): [Keras](https://keras.io/) is a high-level neural networks API developed with a focus on enabling fast experimentation. Keras supports both convolution based networks and recurrent networks (as well as combinations of the two),  runs seamlessly on both CPU and GPU devices,  and is capable of running on top of multiple back-ends including [TensorFlow](https://github.com/tensorflow/tensorflow), [CNTK](https://github.com/Microsoft/cntk), and [Theano](https://github.com/Theano/Theano).
+- [ ] [labelled.pdf](labelled.pdf): Manipulate labelled data by Joseph Larmarange.
 - [x] [latex-math-symbols.pdf](latex-math-symbols.pdf): All the math symbols you can insert with Latex. 
 - [x] [latexcheatsheet.pdf](latexcheatsheet.pdf): A latex cheat sheet. 
 - [x] [latexsheet-a4.pdf](latexsheet-a4.pdf): A reference to the LaTe  typesetting language, useful in combination with knitr and R Markdown, by Winston Chang.
@@ -39,6 +43,7 @@ I've also created a PDF with all the cheatsheets I print [All R cheatsheets.pdf]
 - [x] [mlr.pdf](mlr.pdf): The mlr package offers a unified interface to R’s machine learning capabilities, by [Aaron Cooley](https://github.com/Prometheus77). 
 - [x] [mosaic.pdf](mosaic.pdf): The [mosaic package](http://mosaic-web.org/) is for teaching mathematics, statistics, computation and modeling. Cheatsheet by MichaelLaviolette.
 - [x] [nardl.pdf](nardl.pdf): The nardl package estimates the nonlinear cointegrating autoregressive distributed lag model. Cheatsheet by Taha Zaghdoudi.
+- [ ] [nimble.pdf](nimble.pdf): Hierarchical statistical models that extend BUGS and JAGS by Nimble development team. I haven't printed because it seems not interesting to me. 
 - [x] [NVSCheatSheet.pdf](NVSCheatSheet.pdf): **The [Graphics Principles cheatsheet](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf) (https://graphicsprinciples.github.io) is one deliverable of a [graphics initiative](https://onlinelibrary.wiley.com/doi/full/10.1002/pst.1912)** to increase the graphical expertise and productivity of quantitative scientists at Novartis. We also have prepared a tutorial on “Effective visual communication for the quantitative scientist” which is in submission. A pre-print can be found at: https://arxiv.org/abs/1903.09512
 - [ ] [oSCR.pdf](oSCR.pdf): The oSCR package provides functions for working with Spatial Capture Recapture models. Not printed because it isn't that interesting for now. 
 - [x] [package-development.pdf](package-development.pdf): The devtools package makes it easy to build your own R packages, and packages make it easy to share your R code. Supplement this cheat sheet with [r-pkgs.had.co.nz](http://r-pkgs.had.co.nz/), Hadley’s book on package development.
@@ -54,19 +59,21 @@ I've also created a PDF with all the cheatsheets I print [All R cheatsheets.pdf]
 - [x] [rmarkdown-2.0.pdf](rmarkdown-2.0.pdf): R Markdown is an authoring format that makes it easy to write reusable reports with R. You combine your R code with narration written in markdown (an easy-to-write plain text format) and then export the results as an html, pdf, or Word file. You can even use R Markdown to build interactive documents and slideshows.
 - [x] [rmarkdown-reference.pdf](rmarkdown-reference.pdf): R Markdown marries together three pieces of software: markdown, knitr, and pandoc. This five page guide lists each of the options from markdown, knitr, and pandoc that you can use to customize your R Markdown documents. 
 - [x] [rstudio-ide.pdf](rstudio-ide.pdf): The [RStudio IDE](https://www.rstudio.com/products/rstudio/) is the most popular integrated development environment for R. Do you want to write, run, and debug your own R code? Work collaboratively on R projects with version control? Build packages or create documents and apps? No matter what you do with R, the RStudio IDE can help you do it faster. This cheat sheet will guide you through the most useful features of the IDE, as well as the long list of keyboard shortcuts built into the RStudio IDE.
+- [x] [SamplingStrata.pdf](SamplingStrata.pdf): Optimal stratification for survey sampling. Cheatsheet by Giulio Barcaroli.
 - [x] [sf.pdf](sf.pdf): Tools for working with spatial vector data: points, lines, polygons, etc. Cheatsheet by Ryan Garnett.
 - [x] [shiny.pdf](Shiny.pdf): If you’re ready to build interactive web apps with R, say hello to Shiny. This cheat sheet provides a tour of the Shiny package and explains how to build and customize an interactive app. Be sure to follow the links on the sheet for [even more information](http://shiny.rstudio.com/).
 - [x] [Short-refcard.pdf](Short-refcard.pdf): A cheat sheet for R from [here](https://cran.r-project.org/doc/contrib/Short-refcard.pdf).
 - [x] [sjmisc.pdf](sjmisc.pdf): dplyr friendly Data and Variable Transformation, by [Daniel Lüdecke](https://github.com/strengejacke). 
 - [x] [sparklyr.pdf](sparklyr.pdf): [Sparklyr](http://spark.rstudio.com/) provides an R interface to Apache Spark, a fast and general engine for processing Big Data.  With sparklyr, you can connect to a local or remote Spark session, use dplyr to manipulate data in Spark, and run Spark’s built in machine learning algorithms.
-- [ ] [stata2r.pdf](stata2r.pdf): Common translations from Stata to R. I don't use Stata so I haven't printed it. 
+- [x] [stata2r.pdf](stata2r.pdf): Common translations from Stata to R. I don't use Stata so I haven't printed it. 
 - [x] [stringr.pdf](stringr.pdf): The [stringr](http://stringr.tidyverse.org/) package provides an easy to use toolkit for working with strings, i.e. character data, in R. This cheatsheet guides you through stringr’s functions for manipulating strings. The back page provides a concise reference to *regular expresssions*, a mini-language for describing, finding, and matching patterns in strings. 
 - [x] [survminer.pdf](survminer.pdf): Elegant survival plots, by Przemyslaw Biecek.
 - [x] [syntax.pdf](syntax.pdf): Three code styles compared: $, formula, and tidyverse. By [Amelia McNamara](http://www.science.smith.edu/~amcnamara/). 
 - [ ] [teachR.pdf](teachR.pdf): Some insights about how to teach R. Downloaded from [here](https://github.com/GraphicsPrinciples/CheatSheet/blob/master/NVSCheatSheet.pdf). I think this is isn't really interesting for printing. 
 - [x] [tidyeval.pdf](tidyeval.pdf): [Tidy Evaluation](https://tidyeval.tidyverse.org/) (Tidy Eval) is a framework for doing non-standard evaluation in R that makes it easier to program with tidyverse functions. Non-standard evaluation, better thought of as “delayed evaluation,” lets you capture a user’s R code to run later in a new environment or against a new data frame. The tidy evaluation framework is implemented by the [rlang](https://rlang.r-lib.org/) package and used by functions throughout the tidyverse.
-- [ ] [time-series.pdf](time-series.pdf): A reference to time series in R. I haven't printed it because it doesn't look that interesting at least for now. 
+- [x] [time-series.pdf](time-series.pdf): A reference to time series in R. I haven't printed it because it doesn't look that interesting at least for now. 
 - [x] [tsbox.pdf](tsbox.pdf): A time series [toolkit](https://www.tsbox.help/) for conversions, piping, and more. By Christoph Sax. 
+- [ ] [vegan.pdf](vegan.pdf): Tools for descriptive community ecology. Cheatsheey by Bruna L Silva. Not printed because not interesting right now. 
 - [x] [vtree.pdf](vtree.pdf): Display the subsets within a data frame, nested by variables and values. I have to create a new pdf with this cheatsheet as a image because the new version wasn't printing correctly. 
 - [x] [xplain.pdf](xplain.pdf): Explain statistical functions with XML files and xplain. By Joachim Zuckarelli. 
 
